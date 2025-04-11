@@ -4,7 +4,7 @@ Sou estudante de **Sistemas de Informação**, apaixonado por tecnologia, dados 
 
 
 🛠️ Tecnologias favoritas:  
-⚡ Python | 🐘 PostgreSQL | 📊 Power BI | 🕷️ ´Selenium´ | 📁 Pandas
+⚡ Python | 🐘 PostgreSQL | 📊 Power BI | 🕷️ Selenium | 📁 Pandas
 ---
 
 ## 🚀 Tecnologias que estudo e utilizo
