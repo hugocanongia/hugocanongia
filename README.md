@@ -1,4 +1,4 @@
-# Opa, prazer me chamo Hugo!
+# Opa, muito prazer me chamo Hugo!
 
 Sou estudante de **Sistemas de Informação**, apaixonado por tecnologia, dados e automação. Estou me especializando em **análise de dados**, **automação de processos com Python**, e **bancos de dados relacionais**, com foco em aplicar o que aprendo em projetos reais e úteis no dia a dia.
 
