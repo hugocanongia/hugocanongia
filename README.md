@@ -18,13 +18,14 @@ Sou estudante de **Sistemas de Informação**, apaixonado por tecnologia, dados 
 
 ---
 
-## 🧠 Atualmente estudando
-
+## 🧠 Interesses
+</>
 - Python com foco em análise e automações
 - Pandas para manipulação de dados
 - Selenium para automatizar processos repetitivos
 - Power BI para visualização de dados
 - SQL e PostgreSQL para consultas e modelagem de banco de dados
+</>
 
 ---
 
