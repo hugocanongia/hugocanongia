@@ -5,6 +5,7 @@ Sou estudante de **Sistemas de Informação**, apaixonado por tecnologia, dados 
 
 🛠️ Tecnologias favoritas:  
 ⚡ Python | 🐘 PostgreSQL | 📊 Power BI | 🕷️ Selenium | 📁 Pandas
+
 ---
 
 ## 🚀 Tecnologias que estudo e utilizo
@@ -15,17 +16,6 @@ Sou estudante de **Sistemas de Informação**, apaixonado por tecnologia, dados 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
----
-
-## 🧠 Interesses
-</>
-- Python com foco em análise e automações
-- Pandas para manipulação de dados
-- Selenium para automatizar processos repetitivos
-- Power BI para visualização de dados
-- SQL e PostgreSQL para consultas e modelagem de banco de dados
-</>
 
 ---
 
